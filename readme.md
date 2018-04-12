@@ -1,1 +1,4 @@
-![](images/apk.png?raw=true)
+[shadowsocks-pc端下载](<Shadowsocks-4.0.9.zip>)
+[shadowsocks-安卓端教程](<apk-guide.md>)
+[shadowsocks-安卓端下载](<shadowsocks_v4.4.6.apk>)
+[sockscap64-pc端下载](<sockscap64w_V3.3_setup.exe>)
